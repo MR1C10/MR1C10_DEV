@@ -30,8 +30,7 @@ const config: Config = {
   instagramLink: "https://www.instagram.com/_mau_rodrigues/",
   linkedInLink: "https://www.linkedin.com/in/mr1c10",
   discordLink: "https://discord.com/users/688597843833126963",
-  spotifyLink: "https://open.spotify.com/user/1prvi53t67qh884hlp1t1tvg8", // if you don't wish the button to appear, you can either
-  // leave it blank or omit it
+  spotifyLink: "https://open.spotify.com/user/1prvi53t67qh884hlp1t1tvg8",
   footer: "☠️Dev M☠️",
 };
 

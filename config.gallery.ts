@@ -11,7 +11,6 @@ const gallery: { albums: Album[] } = {
         {
           title: "teste 1",
           src: "/assets/img/toduro.png",
-          videoSrc: ""
         }
       ]
     },
@@ -24,7 +23,6 @@ const gallery: { albums: Album[] } = {
         {
           title: "teste 2",
           src: "/assets/img/poatan.png",
-          videoSrc: ""
         }
       ]
     }
