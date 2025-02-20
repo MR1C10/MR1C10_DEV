@@ -44,3 +44,9 @@
     footer: "☠️Dev M☠️",
   };
 ```
+
+![image](https://github.com/user-attachments/assets/4d74af3c-550d-4542-b595-b8c65a262585)
+![image](https://github.com/user-attachments/assets/62e1cd47-da19-4f5d-8d9e-d45eef3c6a95)
+![image](https://github.com/user-attachments/assets/d527a9f0-6e75-4b0f-a06d-3090bb73d6a3)
+![image](https://github.com/user-attachments/assets/afcf64fa-4cdc-4a66-8121-f82aa306e8db)
+
