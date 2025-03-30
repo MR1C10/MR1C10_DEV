@@ -8,48 +8,45 @@
 - also change the config for the [albums](https://raw.githubusercontent.com/xyztavo/ulinked/refs/heads/main/config.gallery.ts) if you wish to use it.
 - change the stuff you want and you are good to go!🚀🚀
 ```ts
+import { Config } from "./types/config";
+
 const config: Config = {
   options: {
     blog: true,
-    gallery: true, // this will only hide the gallery page, you can still access it by going to its respective routes.
+    gallery: true
   },
-  nickname: "ustav",
+  nickname: "Mauricio",
   lanyard: {
-    active: true, /* if you don't wish to expose your Discord activities with lanyard, set to false */
-    discordId: "801073563368947742",
+    active: true,
+    discordId: "688597843833126963",
   },
-  accentColor: "#7300ff",
+  accentColor: "#4c02b5",
   avatarImgSrc: "/assets/profile.png",
   buttons: [
     {
-      title: "My Gym App",
-      link: "https://ugogym.vercel.app/",
-    },
-    {
-      title: "My Pokemon Game",
-      link: "https://pokedoro.vercel.app/",
-    },
-    {
       title: "My Projects",
-      link: "https://uprojects.vercel.app/",
+      link: "https://github.com/mr1c10?tab=repositories",
+    },
+    {
+      title: "Github",
+      link: "https://github.com/mr1c10",
+    },
+    {
+      title: "Contact Me",
+      link: "https://api.whatsapp.com/send?phone=5511980983301&text=Olá%2C%20Mauricio!%20Encontrei%20seu%20portfólio%20e%20gostei%20bastante%20dos%20seus%20projetos.%20Gostaria%20de%20saber%20mais%20e%20trocar%20uma%20ideia.%20😊",
     },
     {
       title: "See this project code",
-      link: "https://github.com/xyztavo/ulinked",
+      link: "https://github.com/MR1C10/Testando",
     },
   ],
-  githubLink: "https://github.com/xyztavo",
-  instagramLink: "https://www.instagram.com/luna.gustah/",
-  linkedInLink: "https://www.linkedin.com/in/gustavo-luna-6a33942aa/",
-  discordLink: "https://discord.com/users/801073563368947742",
-  ytMusicLink: "", /* if you don't wish the button to appear, you can either leave it blank or omit it */
-  youtubeLink: "https://www.youtube.com/@ustav_o",
-  spotifyLink: "https://open.spotify.com/user/314j255v3f5u2yvilbdzywnsxps4",
-  footer: "made with ❤️, ustav",
+  githubLink: "https://github.com/mr1c10",
+  instagramLink: "https://www.instagram.com/_mau_rodrigues/",
+  linkedInLink: "https://www.linkedin.com/in/mr1c10",
+  discordLink: "https://discord.com/users/688597843833126963",
+  spotifyLink: "https://open.spotify.com/user/1prvi53t67qh884hlp1t1tvg8",
+  footer: "☠️Dev M☠️",
 };
 ```
 ## screen shots
-<img src="https://raw.githubusercontent.com/xyztavo/ulinked/refs/heads/main/public/assets/ss1.png" />
-<img src="https://raw.githubusercontent.com/xyztavo/ulinked/refs/heads/main/public/assets/ss2.png" />
-<img src="https://raw.githubusercontent.com/xyztavo/ulinked/refs/heads/main/public/assets/ss3.png" />
-<img src="https://raw.githubusercontent.com/xyztavo/ulinked/refs/heads/main/public/assets/ss4.png" />
+![image](https://github.com/user-attachments/assets/1b53cdd4-22a3-429b-9c2d-aeb2575dc7b9)
