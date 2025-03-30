@@ -50,3 +50,9 @@ const config: Config = {
 ```
 ## screen shots
 ![image](https://github.com/user-attachments/assets/1b53cdd4-22a3-429b-9c2d-aeb2575dc7b9)
+![image](https://github.com/user-attachments/assets/565d3271-59ac-48dd-a250-5bee2273eda4)
+![image](https://github.com/user-attachments/assets/8ace203c-e4b8-4a9c-8c6e-255ecd8aa330)
+![image](https://github.com/user-attachments/assets/5b4651f0-e065-4203-8f76-10977fd85f81)
+![image](https://github.com/user-attachments/assets/f7e7d427-814e-4002-ba2f-8906b0a64921)
+
+
