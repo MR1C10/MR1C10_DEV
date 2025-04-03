@@ -4,14 +4,14 @@ const blog: Blog = {
     title: "about me",
     posts: [
         {
-            title: "i'm a fullstack developer",
-            description: "I'm a brazilian dev and i write the worst piece of code you'll ever see 🚀.",
-            footer: "i mostly work with Nextjs and GO",
+            title: "i'm a backend developer",
+            description: "I'm a Brazilian backend developer focused on building efficient and scalable solutions.💻",
+            footer: "I primarily work with C#, Java, PHP, and database management.",
         },
         {
-            title: "... but also a editor",
-            description: `i like to edit and film some cool cars and make some "cool" stuff with it 🔥.`,
-            footer: "i mostly work with Premiere and After Effects",
+            title: "Sou um desenvolvedor backend",
+            description: "Desenvolvedor backend brasileiro, apaixonado por tecnologia e especializado em criar sistemas robustos, eficientes e escaláveis.💻",
+            footer: "Trabalho principalmente com C#, Java, PHP e gerenciamento de banco de dados."
         },
     ],
 }
