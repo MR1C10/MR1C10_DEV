@@ -1,7 +1,7 @@
 import { Blog } from "./types/config.blog"
 
 const blog: Blog = {
-    title: "about me",
+    title: "Posts",
     posts: [
         {
             title: "i'm a backend developer",
