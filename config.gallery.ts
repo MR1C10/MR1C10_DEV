@@ -9,30 +9,54 @@ const gallery: { albums: Album[] } = {
         "https://i.pinimg.com/236x/02/63/7a/02637a8d4b36894dca7dd8b965daec4a.jpg",
       posts: [
         {
-          title: "",
-          src: "/assets/img/",
+          title: "Android",
+          src: "/assets/img/code.webp",
         },
         {
-          title: "teste 1",
-          src: "/assets/img/toduro.png",
+          title: "",
+          src: "/assets/img/code1.jpg",
+        },
+        {
+          title: "C# contact list",
+          src: "/assets/img/code2.webp",
+        },
+        {
+          title: "Analise DS",
+          src: "/assets/img/viabi.jpg",
+        },
+        {
+          title: "RB",
+          src: "/assets/img/auditorio.jpg",
         }
       ]
     },
     {
-      title: "Life",
-      route: "Life",
+      title: "EU",
+      route: "EU",
       coverImageSrc:
-        "https://i.pinimg.com/736x/a3/bd/74/a3bd74ce69a3ac58236096bd090fc1be.jpg",
+        "https://preview.redd.it/8n14e28ef25c1.png?width=640&crop=smart&auto=webp&s=12acf3daaf0394935c53d8e8bbd1b06324e8dba8",
       posts: [
         {
-          title: "teste 2",
-          src: "/assets/img/poatan.png",
-        }
+          title: "🐓",
+          src: "/assets/img/euAcad.jpg",
+        },
+        {
+          title: "",
+          src: "/assets/img/profile.png",
+        },
+        {
+          title: "Casada?",
+          src: "/assets/img/euBanhe.jpg",
+        },
+        {
+          title: "Aula foda",
+          src: "/assets/img/euEte.webp",
+        },
       ]
     },
     {
-      title: "Teste3",
-      route: "n",
+      title: "MR1C10",
+      route: "Coisas",
       coverImageSrc:
         "https://preview.redd.it/queria-saber-o-contexto-do-meme-desse-cara-dando-contexto-v0-hy5rf7z3fiud1.jpeg?auto=webp&s=cb7366dc8eefd46ac2f627e64282d5ed55e1777a",
       posts: [
@@ -43,7 +67,23 @@ const gallery: { albums: Album[] } = {
         {
           title: "Kit sobrevivência",
           src: "/assets/img/kitsobrev.jpg",
-        }
+        },
+        {
+          title: "Xereca",
+          src: "/assets/img/tucano.jpg",
+        },
+        {
+          title: "Feetesp 2024",
+          src: "/assets/img/fetesp.jpg",
+        },
+        {
+          title: "Arma de Programador",
+          src: "/assets/img/pendras.webp",
+        },
+        {
+          title: "😏",
+          src: "/assets/img/sorvetememe.jpg",
+        },
       ]
     }
   ]
