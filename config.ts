@@ -5,7 +5,7 @@ const config: Config = {
     blog: true,
     gallery: true
   },
-  nickname: "Mauricio",
+  nickname: "Mauricio Souza",
   lanyard: {
     active: true,
     discordId: "688597843833126963",
@@ -22,12 +22,12 @@ const config: Config = {
       link: "https://github.com/mr1c10",
     },
     {
-      title: "Contact Me",
-      link: "https://api.whatsapp.com/send?phone=5511980983301&text=Olá%2C%20Mauricio!%20Encontrei%20seu%20portfólio%20e%20gostei%20bastante%20dos%20seus%20projetos.%20Gostaria%20de%20saber%20mais%20e%20trocar%20uma%20ideia.%20😊",
+      title: "Fale comigo",
+      link: "https://api.whatsapp.com/send?phone=5511980983301&text=Oi%20Mauricio%2C%20como%20vai%3F%20Vi%20seu%20portf%C3%B3lio%20e%20achei%20muito%20legal.%20Bora%20trocar%20uma%20ideia%3F",
     },
     {
-      title: "See this project code",
-      link: "https://github.com/MR1C10/Testando",
+      title: "Veja o codigo deste projeto",
+      link: "https://github.com/MR1C10/MR1C10_DEV",
     },
   ],
   githubLink: "https://github.com/mr1c10",
@@ -35,7 +35,7 @@ const config: Config = {
   linkedInLink: "https://www.linkedin.com/in/mr1c10",
   discordLink: "https://discord.com/users/688597843833126963",
   spotifyLink: "https://open.spotify.com/user/1prvi53t67qh884hlp1t1tvg8",
-  footer: "☠️Dev M☠️",
+  footer: "☠️Dev MR1C10☠️",
 };
 
 export default config;
